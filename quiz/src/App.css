@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body, html {
+  background-color: #838ec4;
+  color: #fdfafa;
+  overflow-x: hidden; 
+  font-family: 'Montserrat', sans-serif;
+  font-size: 24px;
+}
+
+h1, h4 {
+  margin: .5em;
+}
